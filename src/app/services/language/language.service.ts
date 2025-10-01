@@ -7,7 +7,7 @@ import { Location } from '@angular/common';
 })
 export class LanguageService {
 
-  language: "es" | "en";
+  language: "en" | "en";
 
   constructor(
     public translateService: TranslateService,

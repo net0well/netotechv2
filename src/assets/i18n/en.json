@@ -4,149 +4,89 @@
   "Header.Item3": "Projects",
   "Header.Item4": "Contact",
   "Header.cvBtn": "Resume",
-  "Header.cvName": "MUFFEEZ_CV.pdf",
+  "Header.cvName": "WELLINGTON_NETO_CV.pdf",
+
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I am a Full-Stack Developer with over <span class='underline'>5 years of experience</span> building scalable web applications and enterprise solutions. On the <span class='underline'>frontend</span>, I specialize in creating responsive, user-friendly interfaces using <span class='underline'>Angular, React, and Next.js</span>. On the <span class='underline'>backend</span>, I develop secure and high-performance systems with <span class='underline'>Node.js, Express.js, and NestJS</span>, and occasionally use <span class='underline'>Python</span> for automation and data-driven tasks. My focus is on writing clean, reusable, and maintainable code while applying modern development standards and best practices to deliver solutions that are both technically robust and aligned with business goals.",
+  "Banner.Description": "I am a Software Developer with experience in <span class='underline'>.NET, C#, Angular, React, Next.js</span> and critical integrations between corporate systems such as <span class='underline'>ERP Senior</span>, <span class='underline'>TOTVS</span> and <span class='underline'>Salesforce</span>. I focus on <span class='underline'>security, scalability, observability</span> and best practices for maintainability. On the <span class='underline'>backend</span>, I work with <span class='underline'>.NET, ASP.NET Core, microservices, DDD, and relational/NoSQL databases</span>. On the <span class='underline'>frontend</span>, I build modern and responsive interfaces with <span class='underline'>Angular, React, and Next.js</span>. I also work with infrastructure using <span class='underline'>Docker, Kubernetes, Linux, Windows Server, RabbitMQ, and Kafka</span>.",
   "Banner.ActionBtn": "Get in touch",
+
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "With over <span class='underline'>5 years of experience</span> as a Full-Stack Developer, I have worked across the full development lifecycle, from writing <span class='underline'>unit tests</span> and setting up <span class='underline'>CI pipelines</span> to building backend systems with <span class='underline'>Express.js, NestJS, MongoDB, and MySQL</span>. I have also led teams, fostering collaboration and aligning goals with empathy and clear communication.",
-    "I specialize in creating scalable solutions by <span class='underline'>optimizing performance</span>, <span class='underline'>standardizing patterns</span>, and delivering clean, maintainable code. My expertise spans <span class='underline'>frontend frameworks</span> like <span class='underline'>Angular, React, and Next.js </span>, as well as <span class='underline'>backend technologies</span> such as <span class='underline'> Node.js, Express.js, NestJS and Python Django</span>, complemented by experience with relational and NoSQL databases."
+    "I am passionate about technology, with solid experience in developing integrations and scalable solutions in corporate environments. I have mainly worked with <span class='underline'>.NET and C#</span>, building APIs, services, and mission-critical integrations.",
+    "Besides backend, I also work with <span class='underline'>Angular, React, and Next.js</span>, ensuring excellent user experiences. I apply modern <span class='underline'>DevOps</span> practices, using <span class='underline'>Docker, Kubernetes, messaging systems (RabbitMQ, Kafka)</span>, and cloud (<span class='underline'>AWS, Azure, and Google Cloud</span>)."
   ],
+
   "Experience.Title": "Experience",
   "Experience.Jobs": [
     {
-      "Tab": "Classera",
-      "Title": "Software Engineer",
-      "Date": "August 2023 - Present",
+      "Tab": "Biofarm",
+      "Title": "Full-Stack Developer | .NET & Laravel",
+      "Date": "May 2025 - Present",
       "Description": [
-        "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
-        "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
-        "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
-        "Implementation of continuous integration and daily backups.",
-        "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
-        "Planning meetings in reports."
+        "Development and maintenance of integrations in .NET and Laravel (REST and SOAP).",
+        "Applied best practices in structured logging, metrics, and tracing.",
+        "Critical integrations between Salesforce and ERP Senior Sapiens.",
+        "Worked on support and bug fixing for critical issues in integrations."
       ]
     },
     {
-      "Tab": "Emblem",
-      "Title": "Fullstack developer",
-      "Date": "March 2022 - August 2023",
+      "Tab": "Desígna",
+      "Title": "CEO & Founder",
+      "Date": "September 2025 - Present",
       "Description": [
-        "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
-        "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
-        "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
-        "Implementation of continuous integration and daily backups.",
-        "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
-        "Planning meetings in reports."
-      ]
-    },
-
-    {
-      "Tab": "BCM",
-      "Title": "Frontend developer",
-      "Date": "October 2020 - Feburary 2022",
-      "Description": [
-        "Developed and maintained web applications using Angular and React.",
-        "Implementation CI / CD in AWS. Refactoring and optimizing application load times.",
-        "Coding of API requests with RxJS.",
-        "Creation of modules with complex reactive forms",
-        "Improved website performance by optimizing images and implementing caching techniques.",
-        "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
+        "Founder of a startup specialized in developing websites, mobile apps, and system integrations.",
+        "Definition of modern and scalable architecture with best development practices."
       ]
     },
     {
-      "Tab": "Freelancer",
-      "Title": "Independent",
-      "Date": "March 2020 - Present",
+      "Tab": "B. Tobace",
+      "Title": "Systems Analyst",
+      "Date": "August 2023 - May 2025",
       "Description": [
-        "Implementing continuous improvements, working on frontend and backend.",
-        "Creating platforms with Angular, Nodejs, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
-        "Automation of processes with data structures.",
-        "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
+        "Developed improvements and automations in ERP TOTVS RM (C#, Formula Visual).",
+        "Web development in Fluig using HTML, CSS, Bootstrap, JavaScript, jQuery, and AngularJS.",
+        "Created reports in RM Reports, metadata, and advanced SQL cubes."
+      ]
+    },
+    {
+      "Tab": "B. Tobace",
+      "Title": "Junior Support Analyst",
+      "Date": "December 2022 - August 2023",
+      "Description": [
+        "Handled N1 and N2 support, focusing on Finance, Purchasing, Maintenance, Accounting, and Tax modules in TOTVS RM.",
+        "Provided support with data analysis using SQL."
       ]
     }
   ],
+
   "FeatureProjects.Title": "Projects that I was a part of",
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
-      "Title": "2x School",
-      "Description": "A Next Generation School Management System application made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, and <span class='underline'>user management</span>. It also has feedback form logic for parameter configuration.",
-      "imgs": [
-        "assets/images/school/image1.png",
-        "assets/images/school/image2.png"
-      ],
-      "demoLink": "https://www.2xschool.com/",
-      "Technologies": ["Angular", "SASS", "Angular Material", "RxJS", "NgRx"]
-    },
-    {
-      "Title": "Best Buy Mall",
-      "Description": "Best Buy Mall is Online Shopping Mall where you can buy your groceries and household products from your favourite local stores. It has <span class='underline'>online chat, </span, <span class='underline'> &nbsp;order history</span>, <span class='underline'>notification system on number and mail</span>, <span class='underline'>auth</span>, and <span class='underline'>stripe integration for secure payments.</span>",
-      "imgs": ["assets/images/bbm/image1.png", "assets/images/bbm/image2.png"],
-      "demoLink": "https://www.bestbuymall.pk/businesses/Lahore",
-      "Technologies": ["Angular", "SASS", "Material", "RxJS", "ExpressJS"]
-    },
-    {
-      "Title": " Mazhr",
-      "Description": " Mazhr is a Finnish Intelligent Potential and Talent Management company. that help organizations to build better and more efficient teams by matching their  <span class='underline'>Talent</span> and <span class='underline'>Potentials</span>. It has various installations made from scratch with auth module, <span class='underline'>configurable graphics</span>, <span class='underline'>configurable alarms</span>, <span class='underline'>user management</span>, and <span class='underline'>geolocation with openlayers.</span>",
-      "imgs": ["assets/images/mazhr/image1.png"],
-      "demoLink": "https://www.mazhr.com/",
-      "Technologies": ["React", "SASS", "Material", "Babel", "NodeJS"]
-    },
-    {
-      "Title": "Needle",
-      "Description": "Needle Music is a pioneer in the digital music industry as it allows users to create and manage their first and only Audiobiography. It built with the <span class='underline'>Spotify SDK</span> Integration.",
-      "imgs": ["assets/images/mazhr/needle.png"],
-      "demoLink": "https://profile.needlemusic.co/bub",
-      "Technologies": ["React", "ChartJS", "SASS", "NodeJS", "Python"]
+      "Title": "🚧 In construction",
+      "Description": "This section is currently under construction. Soon I will showcase some featured projects here.",
+      "imgs": [],
+      "demoLink": "",
+      "Technologies": []
     }
   ],
+
   "OtherProjects.Title": "More personal projects",
   "OtherProjects.Projects": [
     {
-      "Title": "Covid Tracker",
-      "Description": "Covid Tracker is a web app which is built using the 3rd Party Api integration. This app shows the records from worldwise and countrywise that shows the who much patient are suffer from covid who many died from covid and how many are recoverd from covid",
-      "ghLink": "https://github.com/mufeez1/carona19-tracker",
-      "demoLink": "http://carona19-by-muffeez.surge.sh/",
-      "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
-    },
-    {
-      "Title": "Lets Chat",
-      "Description": "A real-time chat application. Another fun side project :)",
-      "ghLink": "https://github.com/mufeez1/lets-chat",
-      "Technologies": [
-        "React",
-        "SASS",
-        "Socket.io",
-        "NodeJS",
-        "ExpressJS",
-        "Firebase"
-      ]
-    },
-    {
-      "Title": "Quiz App",
-      "Description": "A single page quiz app that has a minimal design, that has different level to attempt quizes.",
-      "ghLink": "https://github.com/mufeez1/quizapp",
-      "demoLink": "https://github.com/mufeez1/quizapp",
-      "Technologies": [
-        "React",
-        "SASS",
-        "TypeScript",
-        "API",
-        "3rd Party Library"
-      ]
-    },
-    {
-      "Title": "JWT Integration",
-      "Description": "JWT AUTHENTICATION IN NODE JS WITH POSTGREESQL DB",
-      "ghLink": "https://github.com/mufeez1/node-jwt",
-      "demoLink": "https://github.com/mufeez1/node-jwt",
-      "Technologies": ["React", "JWT", "ExpressJS", "POSTGREESQL"]
+      "Title": "🚧 In construction",
+      "Description": "This section is also under construction. Soon I will share personal and experimental projects here.",
+      "ghLink": "",
+      "demoLink": "",
+      "Technologies": []
     }
   ],
+
   "Contact.Pretitle": "What’s Next",
   "Contact.Title": "Get in touch!",
-  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
-  "Contact.Btn": "Say Hello"
+  "Contact.Content": "I’ll be happy to hear from you if you want to discuss new opportunities or collaborate on projects. You can email me or reach me on LinkedIn/GitHub.",
+  "Contact.Btn": "Say Hello",
+  "Contact.Email": "wellington@netotech.com.br",
+  "Contact.LinkedIn": "https://www.linkedin.com/in/devwneto/",
+  "Contact.GitHub": "https://github.com/net0well"
 }
