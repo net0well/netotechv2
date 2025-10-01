@@ -21,7 +21,7 @@ export class AppComponent implements OnInit {
 
     this.languageService.initLanguage()
 
-    this.titleService.setTitle("Wellington Neto - Netotech | Desenvolvedor de Software | Engenheiro de Software");
+    this.titleService.setTitle("Wellington Neto - Netotech");
     this.metaService.addTags([
       { name: 'keywords', content: 'Frontend, Backend , Desenvolvedor de Software , Engenheiro de software, software, developer' },
       { name: 'description', content: 'Profissional de desenvolvimento de software com 2 anos de experiência em projetos de grande escala, especializado em integrações críticas entre sistemas corporativos.' },

@@ -9,6 +9,12 @@
   "Banner.Pretitle": "Hello! My name is",
   "Banner.Description": "I’m Wellington, a Software Developer passionate about building things that make an impact. Beyond code, I’m a huge fan of games, married, and the proud human of four amazing cats. I love challenges, learning new technologies, and finding creative ways to solve problems.",
   "Banner.ActionBtn": "Get in touch",
+  "Banner": {
+    "ActionText": "Need a developer? Let’s connect on LinkedIn",
+    "ActionBtn": "Connect on LinkedIn",
+    "Description": "I build modern web and mobile solutions."
+  },
+
 
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [

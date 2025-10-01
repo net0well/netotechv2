@@ -15,9 +15,17 @@
                 </div>
             </div>
             <div class="div-btn-banner">
-                <a (click)='analyticsService.sendAnalyticEvent("click_send_mail", "banner", "email")' href="mailto:wellington@netotech.com.br" target="_black" class="main-btn">
-                    {{"Banner.ActionBtn" | translate}}
-                </a>
+            <p class="cta-text" style="margin-bottom: 1rem;">
+                Looking for a talented developer? Let’s connect on LinkedIn!
+            </p>
+            <br>
+            <a (click)='analyticsService.sendAnalyticEvent("click_linkedin", "banner", "linkedin")' 
+                href="https://www.linkedin.com/in/devwneto/" 
+                target="_blank" 
+                rel="noopener noreferrer" 
+                class="main-btn">
+                Connect on LinkedIn
+            </a>
             </div>
         </div>
     </div>
