@@ -14,6 +14,24 @@
                 <a (click)='analyticsService.sendAnalyticEvent("click_send_mail", "contact", "email")' href="mailto:wellington@netotech.com.br" target="_blank" class="main-btn" data-aos="fade-up" data-aos-duration="1000">
                     {{"Contact.Btn" | translate}}
                 </a>
+
+                <a 
+                    (click)="analyticsService.sendAnalyticEvent('click_open_linkedin', 'contact', 'linkedin')" 
+                    href="{{ 'Contact.LinkedIn' | translate }}" 
+                    target="_blank" 
+                    class="main-btn linkedin-btn"
+                >
+                    LinkedIn
+                </a>
+
+                <a 
+                    (click)="analyticsService.sendAnalyticEvent('click_open_github', 'contact', 'github')" 
+                    href="{{ 'Contact.GitHub' | translate }}" 
+                    target="_blank" 
+                    class="main-btn github-btn"
+                >
+                    GitHub
+                </a>
             </div>
         </div>
     </div>

@@ -7,13 +7,13 @@
   "Header.cvName": "WELLINGTON_NETO_CV.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I am a Software Developer with experience in <span class='underline'>.NET, C#, Angular, React, Next.js</span> and critical integrations between corporate systems such as <span class='underline'>ERP Senior</span>, <span class='underline'>TOTVS</span> and <span class='underline'>Salesforce</span>. I focus on <span class='underline'>security, scalability, observability</span> and best practices for maintainability. On the <span class='underline'>backend</span>, I work with <span class='underline'>.NET, ASP.NET Core, microservices, DDD, and relational/NoSQL databases</span>. On the <span class='underline'>frontend</span>, I build modern and responsive interfaces with <span class='underline'>Angular, React, and Next.js</span>. I also work with infrastructure using <span class='underline'>Docker, Kubernetes, Linux, Windows Server, RabbitMQ, and Kafka</span>.",
+  "Banner.Description": "I’m Wellington, a Software Developer passionate about building things that make an impact. Beyond code, I’m a huge fan of games, married, and the proud human of four amazing cats. I love challenges, learning new technologies, and finding creative ways to solve problems.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "I am passionate about technology, with solid experience in developing integrations and scalable solutions in corporate environments. I have mainly worked with <span class='underline'>.NET and C#</span>, building APIs, services, and mission-critical integrations.",
-    "Besides backend, I also work with <span class='underline'>Angular, React, and Next.js</span>, ensuring excellent user experiences. I apply modern <span class='underline'>DevOps</span> practices, using <span class='underline'>Docker, Kubernetes, messaging systems (RabbitMQ, Kafka)</span>, and cloud (<span class='underline'>AWS, Azure, and Google Cloud</span>)."
+    "I am passionate about technology and have solid experience designing and developing scalable solutions and mission-critical integrations in corporate environments. My main focus is on <span class='underline'>.NET and C#</span>, building APIs, services, and complex system integrations, especially with platforms like <span class='underline'>ERP Senior</span>, <span class='underline'>TOTVS</span>, and <span class='underline'>Salesforce</span>.",
+    "On the <span class='underline'>frontend</span>, I create modern and responsive applications with <span class='underline'>Angular, React, and Next.js</span>, always prioritizing user experience. In infrastructure, I apply <span class='underline'>DevOps</span> practices with <span class='underline'>Docker, Kubernetes, and messaging systems such as RabbitMQ and Kafka</span>, in addition to working with cloud environments like <span class='underline'>AWS, Azure, and Google Cloud</span>. My focus is always on <span class='underline'>security, scalability, observability</span>, and best practices for maintainability."
   ],
 
   "Experience.Title": "Experience",
@@ -85,7 +85,7 @@
   "Contact.Pretitle": "What’s Next",
   "Contact.Title": "Get in touch!",
   "Contact.Content": "I’ll be happy to hear from you if you want to discuss new opportunities or collaborate on projects. You can email me or reach me on LinkedIn/GitHub.",
-  "Contact.Btn": "Say Hello",
+  "Contact.Btn": "E-mail",
   "Contact.Email": "wellington@netotech.com.br",
   "Contact.LinkedIn": "https://www.linkedin.com/in/devwneto/",
   "Contact.GitHub": "https://github.com/net0well"
